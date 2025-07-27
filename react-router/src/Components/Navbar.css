@@ -1,0 +1,8 @@
+a {
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+a:hover {
+  transform: scale(1.05);
+}
